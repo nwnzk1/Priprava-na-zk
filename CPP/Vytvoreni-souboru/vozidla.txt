@@ -1,0 +1,4 @@
+AUTO, Skoda, 2018, 5
+MOTOCYKL, Honda, 2020, 1
+AUTO, Hyundai, 2022, 5
+MOTOCYKL, Yamaha, 2009, 0
