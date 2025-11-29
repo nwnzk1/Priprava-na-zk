@@ -1,0 +1,1 @@
+Vytvoreni souboru + zpracovani dat
