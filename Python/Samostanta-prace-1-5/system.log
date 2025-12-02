@@ -1,0 +1,7 @@
+Dec 2 15:10:01 myhost systemd[1]: Starting LSB: Bring up/down networking...
+Dec 2 15:10:05 myhost kernel: **INFO**: CPU is running at maximum frequency.
+Dec 2 15:10:10 myhost sshd[1234]: **WARNING**: Failed password attempt for invalid user guest from 192.0.2.1 port 54321 ssh2
+Dec 2 15:10:15 myhost systemd[1]: Started LSB: Bring up/down networking.
+Dec 2 15:10:20 myhost httpd[5678]: **ERROR**: Database connection failed: connection refused.
+Dec 2 15:10:25 myhost kernel: **INFO**: System startup complete.
+Dec 2 15:10:30 myhost postfix/smtp[9012]: **WARNING**: Host mail.example.com[203.0.113.4] said: 450 Temporary lookup failure (in reply to RCPT TO command)
