@@ -1,0 +1,1 @@
+Vzorová zkoužka - cpp cast
